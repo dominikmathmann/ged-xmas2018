@@ -1,0 +1,5 @@
+<div class="content">
+  <img src="../assets/images//Gedoplan-positiv-web.png" alt="GEDOPLAN" />
+  <h2>{{ showMessage ? '...wünscht frohe Weihnachten' : '&nbsp;' }}</h2>
+  <GED-puzzle (finished)="showMessage = $event"></GED-puzzle>
+</div>
