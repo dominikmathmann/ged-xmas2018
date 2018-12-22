@@ -2,6 +2,6 @@
 
 - mit Angular
 
-![Screenshot](src/assets/demo.gif)
+![Screenshot](src/assets/images/demo.gif)
 
 _by GEDOPLAN, [Dominik Mathmann](https://github.com/dominikmathmann)_
