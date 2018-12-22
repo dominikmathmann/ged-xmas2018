@@ -8,8 +8,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "ng build --prod --base-href 'https://gedoplan.github.io/ged-xmas2018/' && ngh",
-    "deploy-d": "ng build --prod --base-href 'https://dominikmathmann.github.io/ged-xmas2018/' && ngh"
+    "deploy": "ng build --prod --base-href 'https://gedoplan.github.io/ged-xmas2018/' && ngh --dir=dist/ged-xmas2018",
+    "deploy-d": "ng build --prod --base-href 'https://dominikmathmann.github.io/ged-xmas2018/' && ngh --dir=dist/ged-xmas2018"
   },
   "private": true,
   "dependencies": {
